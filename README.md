@@ -7,8 +7,6 @@ This project implements a Convolutional Neural Network (CNN) using PyTorch to cl
 
 The model is trained on colored images and performs multi-class image classification using deep learning techniques.
 
----
-
 ## Objective
 
 The main objective of this project is to:
@@ -19,8 +17,6 @@ The main objective of this project is to:
 - understand CNN implementation using PyTorch
 - learn image classification workflow
 
----
-
 ## Technologies Used
 
 - Python
@@ -28,8 +24,6 @@ The main objective of this project is to:
 - Torchvision
 - NumPy
 - Jupyter Notebook
-
----
 
 ## Dataset Information
 
@@ -53,8 +47,6 @@ The dataset contains 60,000 colored images divided into 10 classes.
 - Ship
 - Truck
 
----
-
 ## Deep Learning Workflow
 
 ### 1. Data Preprocessing
@@ -64,8 +56,6 @@ The dataset contains 60,000 colored images divided into 10 classes.
 - Image normalization
 - Train-test splitting
 - DataLoader implementation
-
----
 
 ### 2. CNN Architecture
 
@@ -91,16 +81,12 @@ The Convolutional Neural Network contains:
 - ReLU Activation
 - Output Layer → 10 Classes
 
----
-
 ### 3. Model Training
 
 - Loss Function: CrossEntropyLoss
 - Optimizer: Adam Optimizer
 - Framework: PyTorch
 - Epochs: 10
-
----
 
 ## Project Structure
 
@@ -113,9 +99,6 @@ CIFAR10-CNN-Classifier/
 ├── .gitignore
 ├── saved_model.pth
 └── data/
-```
-
----
 
 ## Features
 
@@ -126,7 +109,6 @@ CIFAR10-CNN-Classifier/
 - Accuracy calculation
 - PyTorch-based deep learning workflow
 
----
 
 ## Output
 
@@ -145,7 +127,6 @@ The model outputs:
 - Transfer Learning
 - Streamlit Deployment
 
----
 
 ## Learning Outcomes
 
@@ -158,7 +139,7 @@ Through this project, I learned:
 - Forward and backward propagation
 - Model evaluation techniques
 
----
+
 
 ## Author
 
